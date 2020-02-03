@@ -32,7 +32,7 @@ def directors_totals(nds)
     director_index += 1
   end
   result
-  nil
+  
 end
 
 [{:name=>"Stephen Spielberg",
